@@ -1,0 +1,912 @@
+.shoesoul4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-decoration: underline;
+  font-weight: 400;
+  font-family: inherit;
+}
+.adidas1,
+.converse1,
+.new-balance1,
+.nike1,
+.puma1 {
+  position: relative;
+  text-transform: capitalize;
+}
+.new-balance1 {
+  white-space: nowrap;
+}
+.new-balanceframe {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 24px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-abhaya-libre);
+}
+.size-chart1 {
+  white-space: nowrap;
+}
+.more1,
+.size-chart1 {
+  position: relative;
+  text-transform: capitalize;
+}
+.frame-framecrunstarmocionplatf {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 28px;
+}
+.nike-adidas-puma-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.colour-frame,
+.unisexhightopshoeframe {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.colour-frame {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-abhaya-libre);
+}
+.unisexhightopshoeframe {
+  flex-direction: column;
+  gap: 26px 0;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-major-mono-display);
+}
+.c-02-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.run-star-hike {
+  position: relative;
+  text-transform: capitalize;
+}
+.unisex-shoes {
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.colours4,
+.mrp-599900,
+.unisex-shoes {
+  position: relative;
+  text-transform: capitalize;
+}
+.colours4 {
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+  z-index: 1;
+}
+.mrp-599900 {
+  font-family: var(--font-peddana);
+}
+.frame-item {
+  height: 25px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  cursor: pointer;
+}
+.add-to-cart4 {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+  margin-left: -67px;
+}
+.rectangle-group,
+.unisex-high-top {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-group {
+  width: 74px;
+  justify-content: flex-start;
+}
+.unisex-high-top {
+  align-self: stretch;
+  justify-content: flex-end;
+  font-family: var(--font-lateef);
+}
+.price-m-r-p,
+.run-star-motion,
+.size-chart2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.price-m-r-p {
+  width: 163px;
+}
+.run-star-motion,
+.size-chart2 {
+  gap: 6px 0;
+}
+.size-chart2 {
+  height: 290px;
+  width: 256px;
+  gap: 19px 0;
+}
+.c-02-1-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chuk-70-canvas,
+.colours5,
+.mrp-5999001,
+.unisex-shoes1 {
+  position: relative;
+  text-transform: capitalize;
+}
+.colours5 {
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+  z-index: 1;
+}
+.mrp-5999001 {
+  font-family: var(--font-peddana);
+}
+.add-to-cart-child {
+  height: 25px;
+  width: 76px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: none;
+}
+.add-to-cart6 {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.add-to-cart5 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-10xs) var(--padding-11xs) var(--padding-7xs);
+  white-space: nowrap;
+}
+.m-r-p,
+.run-star-platform {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.m-r-p {
+  flex-direction: row;
+  justify-content: flex-end;
+  font-family: var(--font-lateef);
+}
+.run-star-platform {
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.unisex-shoes-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 7px 0;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.chuck-frame,
+.chuk-canvas,
+.unisex-shoes-label,
+.unisex-shoes-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.chuk-canvas {
+  flex: 1;
+  flex-direction: column;
+  gap: 10px 0;
+}
+.chuck-frame,
+.unisex-shoes-label {
+  width: 181px;
+  flex-direction: row;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.chuck-frame {
+  height: 291px;
+  width: 295px;
+  flex-direction: column;
+  padding: 0 var(--padding-22xl) 0 0;
+  gap: 16px 0;
+}
+.c-02-1-icon2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.colours6,
+.mrp-799900,
+.run-star-motion1,
+.unisex-high-top1 {
+  position: relative;
+  text-transform: capitalize;
+}
+.mrp-799900 {
+  font-size: var(--font-size-base);
+  font-family: var(--font-peddana);
+  color: var(--color-black);
+}
+.run-star-platform-child {
+  height: 25px;
+  width: 76px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: none;
+}
+.add-to-cart7 {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 2;
+}
+.run-star-platform1 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-10xs) var(--padding-11xs) var(--padding-7xs);
+  white-space: nowrap;
+  z-index: 1;
+}
+.frame-add-to-cart-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-lateef);
+}
+.add-to-cart-frame,
+.chuckdeluxeheelplatform,
+.unisex-shoes-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.unisex-shoes-frame {
+  width: 162px;
+  gap: 2px 0;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.add-to-cart-frame,
+.chuckdeluxeheelplatform {
+  gap: 10px 0;
+}
+.add-to-cart-frame {
+  height: 294px;
+  width: 287px;
+  padding: 0 33px 0 0;
+  box-sizing: border-box;
+  gap: 19px 0;
+}
+.a05253c-02-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chuck-70-de,
+.colours7,
+.mrp-899900,
+.women-high-top {
+  position: relative;
+  text-transform: capitalize;
+}
+.mrp-899900 {
+  font-size: var(--font-size-base);
+  font-family: var(--font-peddana);
+  color: var(--color-black);
+}
+.frame-inner {
+  height: 25px;
+  width: 76px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: none;
+}
+.add-to-cart8 {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.rectangle-container {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-11xs) var(--padding-10xs) 0 var(--padding-7xs);
+  white-space: nowrap;
+}
+.frame-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-lateef);
+}
+.women-high-top-shoe-parent {
+  width: 165px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px 0;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.add-to-cart-frame1,
+.chuck-70-de-luxe-heel-platform-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px 0;
+}
+.add-to-cart-frame1 {
+  height: 294px;
+  width: 254px;
+  gap: 19px 0;
+}
+.f-r-a-m-e-r-u-n-s-t-a-r-m-o-c,
+.frame-colours-m-r-p {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 79px;
+}
+.f-r-a-m-e-r-u-n-s-t-a-r-m-o-c {
+  width: 1333px;
+  flex-direction: column;
+  gap: 41px 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-average);
+}
+.nike2 {
+  cursor: pointer;
+}
+.adidas3,
+.converse2,
+.new-balance2,
+.nike2,
+.puma2 {
+  position: relative;
+  text-transform: capitalize;
+}
+.forum-mid-shoes-white-f-ystand {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 24px;
+  max-width: 100%;
+}
+.more2,
+.size-chart3 {
+  position: relative;
+  text-transform: capitalize;
+}
+.adidas2,
+.m-r-p1,
+.size-chart-more {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.m-r-p1 {
+  justify-content: flex-start;
+  gap: 0 28px;
+}
+.adidas2,
+.size-chart-more {
+  max-width: 100%;
+}
+.size-chart-more {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.adidas2 {
+  width: 1334px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+}
+.forum-mid-shoes-white-fy7939-0-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.forum-high-shoes {
+  position: relative;
+  text-transform: capitalize;
+}
+.men-shoes1 {
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.colour,
+.men-shoes1,
+.mrp-999900 {
+  position: relative;
+  text-transform: capitalize;
+}
+.colour {
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+  z-index: 1;
+}
+.mrp-999900 {
+  font-family: var(--font-peddana);
+}
+.add-to-cart-button-child {
+  height: 25px;
+  width: 74px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: none;
+}
+.add-to-cart10 {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.add-to-cart-button1,
+.nike-adidas-puma {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.add-to-cart-button1 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  align-items: center;
+  padding: 0 0 var(--padding-11xs) var(--padding-6xs);
+  white-space: nowrap;
+}
+.nike-adidas-puma {
+  align-self: stretch;
+  align-items: flex-start;
+  font-family: var(--font-lateef);
+}
+.add-to-cart9,
+.colour-parent,
+.men-shoes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.colour-parent {
+  align-self: stretch;
+}
+.add-to-cart9,
+.men-shoes {
+  width: 163px;
+  gap: 6px 0;
+}
+.men-shoes {
+  height: 289px;
+  width: 255px;
+  gap: 18px 0;
+}
+.galaxy-6-shoes-black-gw3847-01-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.colours8,
+.galaxy-6-shoes,
+.mens-shoes3,
+.mrp-5999002 {
+  position: relative;
+  text-transform: capitalize;
+}
+.colours8 {
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+  z-index: 1;
+}
+.mrp-5999002 {
+  font-family: var(--font-peddana);
+}
+.grandcourt-cloudfoam-child {
+  height: 25px;
+  width: 76px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: none;
+}
+.add-to-cart11 {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.grandcourt-cloudfoam {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-10xs) var(--padding-11xs) var(--padding-7xs);
+  white-space: nowrap;
+}
+.samba-o-gshoes {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-family: var(--font-lateef);
+}
+.frame-for-text,
+.m-r-p-frame {
+  align-self: stretch;
+  flex-direction: column;
+}
+.m-r-p-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.frame-for-text {
+  gap: 7px 0;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.frame-for-text,
+.galaxy-shoes-black-g-w,
+.galaxy-shoes1,
+.image-rectangle {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.galaxy-shoes1 {
+  flex: 1;
+  flex-direction: column;
+  gap: 10px 0;
+}
+.galaxy-shoes-black-g-w,
+.image-rectangle {
+  width: 181px;
+  flex-direction: row;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.galaxy-shoes-black-g-w {
+  height: 290px;
+  width: 294px;
+  flex-direction: column;
+  padding: 0 var(--padding-21xl) 0 0;
+  gap: 15px 0;
+}
+.image-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.samba-og-shoes {
+  position: relative;
+  text-transform: capitalize;
+}
+.samba-o-gshoes1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs);
+}
+.colours9,
+.mens-shoes4 {
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.colours9,
+.mens-shoes4,
+.mrp-1099900 {
+  position: relative;
+  text-transform: capitalize;
+}
+.men-shoes-price {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-div {
+  height: 25px;
+  width: 76px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: none;
+}
+.add-to-cart12 {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 2;
+}
+.frame-div {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-12xs) 0 var(--padding-12xs) var(--padding-3xs);
+  white-space: nowrap;
+  z-index: 1;
+  font-family: var(--font-lateef);
+}
+.men-shoes-price-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-family: var(--font-peddana);
+}
+.image-1-parent,
+.samba-o-gshoes-parent {
+  width: 162px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px 0;
+}
+.image-1-parent {
+  height: 290px;
+  width: 286px;
+  padding: 0 var(--padding-13xl) 0 0;
+  box-sizing: border-box;
+  gap: 15px 0;
+}
+.image-2-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.colours10,
+.grandcourt-cloudfoam-shoes1,
+.mens-shoes5,
+.mrp-7999001 {
+  position: relative;
+  text-transform: capitalize;
+}
+.container-box {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-child1 {
+  height: 25px;
+  width: 76px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: none;
+}
+.add-to-cart14 {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.rectangle-parent1 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-11xs) var(--padding-10xs) 0 var(--padding-7xs);
+  white-space: nowrap;
+  font-family: var(--font-lateef);
+}
+.price-tag {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-peddana);
+}
+.add-to-cart13,
+.grandcourt-cloudfoam-shoes,
+.men-shoes-name {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.men-shoes-name {
+  width: 165px;
+  gap: 3px 0;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.add-to-cart13,
+.grandcourt-cloudfoam-shoes {
+  gap: 10px 0;
+}
+.grandcourt-cloudfoam-shoes {
+  height: 290px;
+  width: 254px;
+  gap: 15px 0;
+}
+.galaxy-shoes {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 80px;
+  max-width: 100%;
+}
+.desktop-6,
+.galaxy-shoes-black-g-wstandard {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  text-align: left;
+  color: var(--color-black);
+}
+.galaxy-shoes-black-g-wstandard {
+  flex-direction: row;
+  padding: 0 var(--padding-9xs);
+  max-width: 100%;
+  font-size: var(--font-size-base);
+  font-family: var(--font-average);
+}
+.desktop-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-powderblue-100);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-10xl) var(--padding-12xl) 95px;
+  gap: 76px 0;
+  letter-spacing: normal;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-abhaya-libre);
+}
+@media screen and (max-width: 1325px) {
+  .frame-colours-m-r-p,
+  .galaxy-shoes {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .frame-colours-m-r-p {
+    gap: 0 79px;
+  }
+  .f-r-a-m-e-r-u-n-s-t-a-r-m-o-c {
+    gap: 41px 0;
+  }
+  .forum-mid-shoes-white-f-ystand,
+  .size-chart-more {
+    flex-wrap: wrap;
+  }
+  .galaxy-shoes {
+    gap: 0 80px;
+  }
+  .desktop-6 {
+    gap: 76px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-colours-m-r-p {
+    gap: 0 79px;
+  }
+  .adidas3,
+  .converse2,
+  .more2,
+  .new-balance2,
+  .nike2,
+  .puma2,
+  .size-chart3 {
+    font-size: var(--font-size-base);
+  }
+  .galaxy-shoes {
+    gap: 0 80px;
+  }
+  .desktop-6 {
+    gap: 76px 0;
+  }
+}

@@ -1,0 +1,645 @@
+.shoesoul2 {
+  text-decoration: underline;
+  white-space: nowrap;
+}
+.kids,
+.men,
+.shoesoul2,
+.women {
+  position: relative;
+}
+.frame-accessories {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) 0 0;
+  gap: 0 27px;
+}
+.sale {
+  position: relative;
+}
+.products-list-icon {
+  height: 23px;
+  width: 29px;
+  position: relative;
+}
+.brand-frames-child {
+  height: 36px;
+  width: 125px;
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  display: none;
+}
+.search {
+  position: relative;
+  z-index: 1;
+}
+.brand-frames,
+.size-chart-link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.brand-frames {
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  padding: var(--padding-10xs) var(--padding-15xl) var(--padding-10xs)
+    var(--padding-mid);
+}
+.size-chart-link {
+  gap: 0 3px;
+}
+.vector-scrollbar-icon {
+  width: 27px;
+  height: 26px;
+  position: relative;
+}
+.nike-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.search-box {
+  flex: 1;
+  flex-direction: row;
+  gap: 0 19px;
+  color: rgba(0, 0, 0, 0.26);
+}
+.frame-men,
+.frame-women,
+.search-box {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-women {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 22px;
+}
+.frame-men {
+  width: 524px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-marcellus-sc);
+}
+.desktop-5-inner,
+.shoesoul-parent {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.shoesoul-parent {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.desktop-5-inner {
+  width: 1409px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) var(--padding-30xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-major-mono-display);
+}
+.snx22-tf-uproxx-1-1-icon {
+  height: 500px;
+  width: 1656px;
+  position: relative;
+  object-fit: cover;
+  max-width: 104%;
+  flex-shrink: 0;
+}
+.extra-frame,
+.snap-fuproxx-box {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.snap-fuproxx-box {
+  width: 1591px;
+  justify-content: flex-start;
+  max-width: 110%;
+  flex-shrink: 0;
+}
+.extra-frame {
+  align-self: stretch;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.products {
+  width: 98px;
+  text-decoration: underline;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.nike,
+.products {
+  position: relative;
+  text-transform: capitalize;
+}
+.adidas,
+.converse {
+  cursor: pointer;
+}
+.adidas,
+.converse,
+.new-balance,
+.puma {
+  position: relative;
+  text-transform: capitalize;
+}
+.products-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 24px;
+  max-width: 100%;
+}
+.more,
+.size-chart {
+  position: relative;
+  text-transform: capitalize;
+}
+.frame-women-kids,
+.text-men-sale {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.text-men-sale {
+  justify-content: flex-start;
+  gap: 0 28px;
+}
+.frame-women-kids {
+  flex: 1;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.men-sale-section,
+.women-kids-section {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.women-kids-section {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-sm);
+  box-sizing: border-box;
+}
+.men-sale-section {
+  flex-direction: column;
+  gap: 6px 0;
+}
+.air-jordan-1-elevate-low-shoes-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.air-jordan-1 {
+  position: relative;
+  text-transform: capitalize;
+}
+.womens-shoes {
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.colours,
+.mrp-1189500,
+.womens-shoes {
+  position: relative;
+  text-transform: capitalize;
+}
+.colours {
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+  z-index: 1;
+}
+.mrp-1189500 {
+  font-family: var(--font-peddana);
+}
+.frame-child {
+  height: 25px;
+  width: 74px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: none;
+}
+.add-to-cart {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 2;
+}
+.rectangle-parent,
+.vector {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.rectangle-parent {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  align-items: center;
+  padding: 0 0 var(--padding-11xs) var(--padding-6xs);
+  white-space: nowrap;
+  z-index: 1;
+}
+.vector {
+  align-self: stretch;
+  align-items: flex-start;
+  font-family: var(--font-lateef);
+}
+.rectangle-colours {
+  width: 163px;
+}
+.frame-air-force-shoes-wr-ll-w,
+.rectangle-air-jordan-elevate-l,
+.rectangle-colours {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-air-force-shoes-wr-ll-w {
+  padding: 0 var(--padding-xl) 0 0;
+  gap: 6px 0;
+}
+.rectangle-air-jordan-elevate-l {
+  height: 290px;
+  width: 254px;
+  gap: 19px 0;
+}
+.air-force-1-07-shoes-wrllwx-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.colours1,
+.mens-shoes,
+.mrp-749500,
+.nike-air-force {
+  position: relative;
+  text-transform: capitalize;
+}
+.colours1 {
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+  z-index: 1;
+}
+.mrp-749500 {
+  font-family: var(--font-peddana);
+}
+.rectangle-shape-converse-adida-child {
+  height: 25px;
+  width: 76px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: none;
+}
+.add-to-cart1 {
+  position: relative;
+  text-transform: capitalize;
+  cursor: pointer;
+  z-index: 1;
+}
+.rectangle-shape-converse-adida {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-10xs) var(--padding-11xs) var(--padding-7xs);
+  white-space: nowrap;
+}
+.air-force-mens-product-card {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-family: var(--font-lateef);
+}
+.rectangle-shape-men-air-force {
+  align-self: stretch;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.air-jordan-elevate-text,
+.nike-text-frame-womens-shoes,
+.rectangle-shape-men-air-force {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nike-text-frame-womens-shoes {
+  align-self: stretch;
+  gap: 7px 0;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.air-jordan-elevate-text {
+  flex: 1;
+  gap: 10px 0;
+}
+.air-jordan-elevate-frame,
+.text-frame-womens-shoes-air-jo {
+  width: 181px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.air-jordan-elevate-frame {
+  height: 290px;
+  width: 293px;
+  flex-direction: column;
+  padding: 0 var(--padding-12xl) 0 0;
+  gap: 14px 0;
+}
+.air-jordan-1-low-se-shoes-wskj-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.air-jordan-11 {
+  position: relative;
+  text-transform: capitalize;
+}
+.add-to-cart-button-air-jordan {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs);
+}
+.colours2,
+.mens-shoes1 {
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.colours2,
+.mens-shoes1,
+.mrp-1029500 {
+  position: relative;
+  text-transform: capitalize;
+}
+.rectangle-shape-jumpman-m-v-p {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.size-chart-frame-child {
+  height: 25px;
+  width: 76px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: none;
+}
+.add-to-cart2 {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 2;
+}
+.size-chart-frame {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-12xs) 0 var(--padding-12xs) var(--padding-3xs);
+  white-space: nowrap;
+  z-index: 1;
+  font-family: var(--font-lateef);
+}
+.jumpman-m-v-p-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-family: var(--font-peddana);
+}
+.products-list-frame-converse-a,
+.rectangle-shape-air-jordan-low {
+  width: 162px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px 0;
+}
+.products-list-frame-converse-a {
+  height: 289px;
+  width: 285px;
+  padding: 0 var(--padding-12xl) 0 0;
+  box-sizing: border-box;
+  gap: 14px 0;
+}
+.jumpman-mvp-shoes-jv1hcs-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.colours3,
+.jumpman-mvp,
+.mens-shoes2,
+.mrp-1529500 {
+  position: relative;
+  text-transform: capitalize;
+}
+.product-image {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.size-chart-label-child {
+  height: 25px;
+  width: 76px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: none;
+}
+.add-to-cart3 {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 2;
+}
+.size-chart-label {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-khaki-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-11xs) var(--padding-10xs) 0 var(--padding-7xs);
+  white-space: nowrap;
+  z-index: 1;
+  font-family: var(--font-lateef);
+}
+.men-shoe-selection {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-peddana);
+}
+.add-to-cart-button {
+  align-self: stretch;
+  gap: 3px 0;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+}
+.add-to-cart-button,
+.men-products-list,
+.product-colors {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product-colors {
+  width: 185px;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: 10px 0;
+}
+.men-products-list {
+  height: 289px;
+  width: 254px;
+  gap: 14px 0;
+}
+.frame-air-jordan-elevate-low-s {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 0 0 var(--padding-xl);
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-average);
+}
+.nike-air-force-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 36px 0;
+  max-width: 100%;
+}
+.air-jordan-elevate-low,
+.desktop-5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.air-jordan-elevate-low {
+  width: 1388px;
+  flex-direction: row;
+  padding: 0 var(--padding-base);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-abhaya-libre);
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-powderblue-100);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-10xl) 0 var(--padding-lg);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .frame-air-jordan-elevate-low-s {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .frame-accessories {
+    display: none;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-women-kids {
+    flex-wrap: wrap;
+  }
+  .nike-air-force-section {
+    gap: 36px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .adidas,
+  .converse,
+  .new-balance,
+  .nike,
+  .products,
+  .puma {
+    font-size: var(--font-size-base);
+  }
+  .products-list {
+    flex-wrap: wrap;
+  }
+  .more,
+  .size-chart {
+    font-size: var(--font-size-base);
+  }
+}
